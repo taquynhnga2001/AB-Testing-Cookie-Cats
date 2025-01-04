@@ -12,4 +12,4 @@ Cookie Cats, developed by Tactile Entertainment, is a highly engaging mobile puz
 
 To encourage in-app purchases and enhance player engagement, Cookie Cats incorporates "gates" at certain levels. These gates require players to either wait for a specified period or make a purchase to proceed further. Initially, the first gate was set at level 30.  
 
-In this project, we conducted an A/B test to explore the impact of moving the first gate from level 30 to level 40. By analyzing player retention data, we aim to understand whether this adjustment improves player experience and engagement, providing insights into optimal gate placement strategies.
+In this project, I will walk you through how we can conduct an A/B test to explore the impact of moving the first gate from level 30 to level 40. By analyzing player retention data, we aim to understand whether this adjustment improves player experience and engagement, providing insights into optimal gate placement strategies.
